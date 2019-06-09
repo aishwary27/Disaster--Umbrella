@@ -8,5 +8,6 @@ Install dependecies by:-
 make run.sh excuteable:-
 
 `foo@bar:~ chmod +x run.sh`
+
 `foo@bar:~ ./run.sh`
  
