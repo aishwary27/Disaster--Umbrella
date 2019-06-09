@@ -5,7 +5,7 @@ Install dependecies by:-
 
 `foo@bar:~ pip install -r requirements.txt`
 
-make run.sh excuteable:-
+make run.sh executable:-
 
 `foo@bar:~ chmod +x run.sh`
 
