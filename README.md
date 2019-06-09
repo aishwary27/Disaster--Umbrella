@@ -2,7 +2,7 @@
 Disaster relief information WebApp. My submition for AngelHack 2019.
 
 Install dependecies by:-
-`foo@bar pip install -r requirements.txt`
+`foo@bar:~ pip install -r requirements.txt`
 
 make run.sh excuteable:-
 `foo@bar:~ chmod +x run.sh`
